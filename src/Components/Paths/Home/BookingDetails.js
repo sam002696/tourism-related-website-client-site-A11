@@ -15,7 +15,7 @@ const BookingDetails = () => {
         data.bookingDetails = `${bookingDetails.booking_name}`;
         data.image = `${bookingDetails.img_url}`;
         // data.email = `${user.email}`;
-        fetch("http://localhost:5000/submitBooking", {
+        fetch("https://lit-dawn-59033.herokuapp.com/submitBooking", {
             method: "POST",
             headers: { "content-type": "application/json" },
             body: JSON.stringify(data),
@@ -31,7 +31,7 @@ const BookingDetails = () => {
     }
 
     useEffect(() => {
-        fetch(`http://localhost:5000/bookingDetail/${bookingID}`)
+        fetch(`https://lit-dawn-59033.herokuapp.com/bookingDetail/${bookingID}`)
             .then(res => res.json())
             .then(data => setBookingDetails(data));
     }, []);

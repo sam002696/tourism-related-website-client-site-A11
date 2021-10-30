@@ -5,7 +5,7 @@ import HomeBooking from './HomeBooking';
 const Home = () => {
     const [bookings, setBookings] = useState([]);
     useEffect(() => {
-        fetch('http://localhost:5000/bookings')
+        fetch('https://lit-dawn-59033.herokuapp.com/bookings')
             .then(res => res.json())
             .then(data => setBookings(data));
     }, [])

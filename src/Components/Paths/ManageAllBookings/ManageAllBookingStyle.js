@@ -8,7 +8,7 @@ const ManageAllBookingStyle = (props) => {
 
         console.log(id);
         if (proceed) {
-            fetch(`http://localhost:5000/submitbookings/${id}`, {
+            fetch(`https://lit-dawn-59033.herokuapp.com/submitbookings/${id}`, {
                 method: 'DELETE',
                 headers: {
                     "content-type": "application/json"
@@ -28,7 +28,7 @@ const ManageAllBookingStyle = (props) => {
     }
 
     const handleBookingUpdate = (id) => {
-        fetch(`http://localhost:5000/submitbookings/${id}`, {
+        fetch(`https://lit-dawn-59033.herokuapp.com/submitbookings/${id}`, {
             method: 'PUT',
             headers: {
                 "content-type": "application/json"
