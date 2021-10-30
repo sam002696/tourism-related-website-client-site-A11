@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "booking_name": "Paris Hill Tour",
+        "description": "Montmartre is the Paris that you came to see. It’s the whimsical, charming neighborhood most often featured in international depictions of Paris.",
+        "img": "./ServiceImages/service-image-1.jpg",
+        "details_description": "Montmartre is the Paris that you came to see. It’s the whimsical, charming neighborhood most often featured in international depictions of Paris.It sits atop a hill in the north of the city in the 18th arrondissement. There, you’ll find street artists capturing the views, historic monuments, and quaint cafés. This section of the city is one of the best to walk around in, and it just so happens I live a short stroll from this famous neighborhood. In this beginner’s guide, I’ll let you know what not to miss as you wander the historic district.Montmartre sits on a hill, and in many ways, the neighborhood really does rise above the rest of Paris. Its beauty has inspired artists for years and continues to do so today. The village feel combined with its cafés, gardens, and historic monuments gives the neighborhood a truly unique atmosphere.",
+        "img_url": "https://www.tourx-react.egenslab.com/static/media/p-1.43d43fdd.png",
+        "per_person_cost": "180",
+        "duration": "5 Days/6 night",
+        "rating": "8K+Rating"
+    },
+    {
+        "id": 2,
+        "booking_name": "Lake Garda, Italy",
+        "img": "./ServiceImages/service-image-2.jpg",
+        "description": "Lago di Garda, as it is known in Italian, is one of northern Italy's most popular tourist destinations. Tyroleans and Bavarians regard it as a home away from home only a few hours' drive to the south, while the advent of cheaper flights to the many nearby airports has increased the attraction of Italy's largest lake for those hailing from the north of Europe. ",
+        "details_description": "Lake Garda, in northern Italy, is known for its crystal clear water. At the south end, the town of Sirmione is dominated by the Rocca Scaligera, a fortress with harbor views. The nearby Grotte di Catullo archaeological site includes a Roman villa. On the lake's western shore, in Gardone Riviera, is Il Vittoriale degli Italiani, former home of poet d’Annunzio. The Dolomites frame Riva del Garda, a resort in the north.Lago di Garda, as it is known in Italian, is one of northern Italy's most popular tourist destinations. Tyroleans and Bavarians regard it as a home away from home only a few hours' drive to the south, while the advent of cheaper flights to the many nearby airports has increased the attraction of Italy's largest lake for those hailing from the north of Europe.Sirmione, the jewel of the southern shore, is without doubt the most popular Lake Garda town, with visitors thronging to see the picturesque town centre on the Sirmione peninsula and to take the short walk to the ruins of a Roman villa past the more modern thermal baths. The Roman ruins also offer a fabulous lake view.",
+        "img_url": "https://www.tourx-react.egenslab.com/static/media/p-2.02c7fd31.png",
+        "per_person_cost": "180",
+        "duration": "5 Days/6 night",
+        "rating": "8K+Rating"
+    },
+    {
+        "id": 3,
+        "booking_name": "Mount Etna, Italy",
+        "description": "Visiting Mount Etna by car is easy, and you could feasibly choose a base anywhere along the coast and drive to Mount Etna early in the morning. However, your most likely departure points if going with your rental car are Catania or Taormina. Both are popular bases for people holidaying in Sicily, as well as stops on an east Sicily itinerary, and are about an hour’s drive to the Etna entrance. ",
+        "img": "./ServiceImages/service-image-3.jpg",
+        "details_description": "Visiting Mount Etna by car is easy, and you could feasibly choose a base anywhere along the coast and drive to Mount Etna early in the morning. However, your most likely departure points if going with your rental car are Catania or Taormina. Both are popular bases for people holidaying in Sicily, as well as stops on an east Sicily itinerary, and are about an hour’s drive to the Etna entrance. However, you need bear in mind that the roads leading to Etna are very windy and impossible to travel at speed. We were based in Aci Trezza, just outside Catania, and what looked like a relatively short distance on the map turned into a much longer travel time than expected, requiring a bit of a rush towards the end.Mount Etna’s summit is at 3,300m, and Torre Del Filosofo (from where you will begin a summit hike) is at 2,900m; both of these are heights at which you could feel the effects of altitude sickness. Given that you will be likely holidaying in Sicily, a place that is almost exclusively at sea level, there’s not much you can do about acclimatising to the altitude, so you’ll need to just pay attention to your body. It’s totally normal for you to get a little bit more out of puff on this hike due to the thinning air, but should you begin to feel unwell, you absolutely need to stop, tell you guide, and consider turning back - the very best cure for altitude sickness is getting below 2,500m.  ",
+        "img_url": "https://www.tourx-react.egenslab.com/static/media/p-3.460015b6.png",
+        "per_person_cost": "180",
+        "duration": "5 Days/6 night",
+        "rating": "8K+Rating"
+    },
+    {
+        "id": 4,
+        "booking_name": "Amalfi Costa, Italy",
+        "description": "One look at the Amalfi Coast and you may believe that you've found heaven on earth. That's the kind of spellbinding effect this stretch of Italian coastline tends to have on the 5 million annual visitors who cross its mesmerizing paths.",
+        "img": "./ServiceImages/service-image-4.jpg",
+        "details_description": "One look at the Amalfi Coast and you may believe that you've found heaven on earth. That's the kind of spellbinding effect this stretch of Italian coastline tends to have on the 5 million annual visitors who cross its mesmerizing paths. Located in the Campania region of Italy, this UNESCO World Heritage site covers 34 miles of majestic terrain; sky-high costal cliffs display vibrant vegetation and multicolored towns live side by side with the disarming turquoise waters of the Mediterranean, creating a scene that has the power to stop even the most seasoned of travelers dead in their tracks. The coast and the 13 seaside towns that call it home are all connected via the SS163 highway, considered one of the most scenic drives in the world. Each town comes equipped with signature Amalfi topography, as well as standout attributes of its own. The pastel-colored Positano draws in the rich and famous for its luxurious cliffside resorts and fine Italian dining, while the town of Amalfi is Italy's oldest maritime republic, once serving as a big commercial and technical hub in the Mediterranean. The alpine town of Ravello may not be for the faint of heart, but its ancient villas and stunning ocean views will be etched in your memory for years to come. Praiano's secluded shorelines will appease beach lovers and Minori, home to one of the oldest pastas in the world, is a mecca for foodies. And if you plan on passing through Cetara, you can stop at an ancient Norman tower, which according to legend, was founded by Hercules himself. However you decide to explore the Amalfi Coast, its glory is guaranteed to leave you completely gaga long after you've gone.",
+        "img_url": "https://www.tourx-react.egenslab.com/static/media/p-4.5a3083bb.png",
+        "per_person_cost": "180",
+        "duration": "5 Days/6 night",
+        "rating": "8K+Rating"
+    },
+    {
+        "id": 5,
+        "booking_name": "French Riviera, France",
+        "description": "Welcome to the French Riviera aka Cote d'Azur! The southeast coast of Provence, France, is sprinkled with some of the world’s most popular beaches and destinations, including Monaco, Nice, Cannes and Saint Tropez. Many celebrities, such as Elton John and Brigitte Bardot, have homes in the region.",
+        "img": "./ServiceImages/service-image-5.jpg",
+        "details_description": "The French Riviera is known the world over for its glamour and beauty—but these spots take it to a whole new level. From the see-and-be-seen beaches and boardwalks of Cannes and Monaco to the lavender fields of Grasse and the medieval villages of Èze, there's a whole host of places to explore throughout the summer and beyond. Keep reading for the eight must-see destinations to add to your next trip.The French Riviera (known in French as the Côte d'Azur [kot dazyʁ]; Occitan: Còsta d'Azur [ˈkɔstɔ daˈzyʀ]; literal translation -Azure Coast) is the Mediterranean coastline of the southeast corner of France. There is no official boundary, but it is usually considered to extend from Toulon , Le Lavandou or Saint-Tropez in the west to Menton at the France–Italy border in the east.[1][2] The coast is entirely within the Provence-Alpes-Côte d'Azur region of France. The Principality of Monaco is a semi-enclave within the region, surrounded on three sides by France and fronting the Mediterranean. Riviera is an Italian word that corresponds to the ancient Ligurian territory, wedged between the Var and Magra rivers. The Côte d'Azur or French Riviera, is a nickname given by France to the County of Nice after its annexation in 1860, because the rain and the Mistral (south French cold wind) were stopped by the Alps and the climate was similar to that of the north of Italy, even in winter, with a sky as blue as its sea, the French Riviera. When the Mistral and the Tramontane are blowing, this provokes an upwelling phenomenon between Languedoc and Provence: they push the surface waters out to sea and bring deeper, cooler waters up to the seaside. Consequently, on these beaches, the temperature of the Mediterranean can be very cool in summer depending on the wind regime. This phenomenon is observed very little or not on the coast between the French Riviera and the Italian Riviera.[3] After the 2000s it was extended to the rest of Southern France, although the geography, culture or climate is different. The County of Nice is a mountainous area like Italy which stands out from the South of France. While the Saharan warm wind Sirocco blows over Italy, the cold wind Mistral blows over the south of France. As the County of Nice is protected by the Alps, it has a northern Italian climate.[4][5] This corresponds to the mountain range of the Apennines and Ligurian Alps and located between the rivers of Var and Magra.",
+        "img_url": "https://www.tourx-react.egenslab.com/static/media/p-5.194db7b2.png",
+        "per_person_cost": "180",
+        "duration": "5 Days/6 night",
+        "rating": "8K+Rating"
+    },
+    {
+        "id": 6,
+        "booking_name": "Lake Geneva, France",
+        "description": "Lake Geneva, of glacial origin, is located on the Northern side of the Alps and it is shared by Switzerland (59.53%) and France (40.47%). Its main basin is characterized by large bottom plateau in the center of it. It has three main parts considering its different ways of formation. Haut Lac, or Upper Lake, was formed through sedimentation and is located on the eastern part of the lake,",
+        "img": "./ServiceImages/service-image-6.jpg",
+        "details_description": "Lake Geneva, of glacial origin, is located on the Northern side of the Alps and it is shared by Switzerland (59.53%) and France (40.47%). Its main basin is characterized by large bottom plateau in the center of it. It has three main parts considering its different ways of formation. Haut Lac, or Upper Lake, was formed through sedimentation and is located on the eastern part of the lake, from the Rhone estuary to the line of Meillerie-Rivaz. Grand Lake, or Large Lake is of tectonic origin and it is the largest, deepest basin with the lake’s largest width. Petit Lac, otherwise known as Small Lake, is situated in the southwestern part, is narrower and steeper, lying from Yvoire-Promenthoux next Prangins to the exit in Geneva.On the north the lake is bordered by the mountains of Savoy and Valais, which are generally rugged and somber. Gentle vine-covered slopes, dotted with pretty villages and old castles can be found on the northern coast. The eastern shore between Vevey and Villeneuve has a typical Alpine character. The shore between Nyon and Lausanne is referred to as “La Cote” and is flatter. The area between Lausanne and Vevey is called Lavaux and is hillier, covered with vineyards. The culminating point of the drainage basin is Monte Rosa with a height of 4634 meters. The higher peaks of the Mont Blanc and the Grand Combin can be spotted from some areas of the lake.Lake Geneva has the shape of a crescent, with its southwestern shore of 95 kilometers and southern shore of 72 kilometers.",
+        "img_url": "https://www.tourx-react.egenslab.com/static/media/p-6.1c3145eb.png",
+        "per_person_cost": "180",
+        "duration": "5 Days/6 night",
+        "rating": "8K+Rating"
+    }
+]
