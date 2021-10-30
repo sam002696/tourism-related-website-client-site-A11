@@ -30,8 +30,9 @@ const MyBookingStyle = (props) => {
     }
     return (
         <div>
-            <div>
+            <div >
                 {user.email === email &&
+
                     <div className=" ring-4 ring-gray-300 rounded-xl shadow-xl">
 
                         <img className="rounded-t-xl  w-full  object-cover " src={image} alt="" ></img>
