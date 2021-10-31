@@ -23,11 +23,7 @@ const AddNewBooking = () => {
     return (
         <div className="w-full h-full bg-cover bg-no-repeat bg-left bg-fixed" style={{
             backgroundImage: `url("https://images.unsplash.com/photo-1499678329028-101435549a4e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80 ")`,
-            // backgroundPosition: 'center',
 
-            // backgroundSize: 'cover',
-
-            // backgroundRepeat: 'no-repeat'
         }}>
             <div>
                 <h1 className='font-serif pt-10 text-3xl text-center text-white underline'>Add New Tour Package</h1>

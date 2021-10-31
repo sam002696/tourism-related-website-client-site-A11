@@ -56,9 +56,9 @@ const ManageAllBookings = () => {
         <div>
             <div>
                 {/* <!-- component --> */}
-                <div className="text-gray-900 p-28 bg-gray-200">
+                <div className="bg-gray-200 m-12 mx-auto p-28 rounded-3xl text-gray-900 w-10/12">
 
-                    <div className="wrapper px-3 py-4 flex justify-center">
+                    <div className="wrapper sm:px-0 sm:py-0 px-3 py-4 flex justify-center">
                         <table className="w-full text-md bg-white shadow-md rounded mb-4">
                             <tbody>
                                 <tr className="border-b">

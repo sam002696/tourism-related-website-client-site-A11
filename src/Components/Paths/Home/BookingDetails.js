@@ -3,6 +3,9 @@ import { useForm } from 'react-hook-form';
 import { useParams } from 'react-router';
 import useAuth from '../../../Hooks/useAuth';
 import './BookingDetails.css'
+import Fade from 'react-reveal/Fade';
+
+
 const BookingDetails = () => {
     const { user } = useAuth();
     const { bookingID } = useParams();
@@ -60,8 +63,15 @@ const BookingDetails = () => {
                                 <img className='mx-auto rounded-2xl' src={bookingDetails?.img_url} alt="" />
                             </div>
                             <div>
-                                <h1 className='sm:w-max border-b-2 font-semibold mx-auto pb-5 text-3xl w-1/3 border-blue-400 text-white'> {bookingDetails?.booking_name}</h1>
-                                <h2 className='mx-auto sm:font-semibold sm:pt-5 sm:text-2xl sm:text-justify sm:w-5/6 text-3xl w-1/2 text-white'> {bookingDetails?.details_description}</h2>
+                                <Fade left cascade>
+                                    <h1 className='sm:w-max border-b-2 font-semibold mx-auto pb-5 text-3xl w-1/3 border-blue-400 text-white'> {bookingDetails?.booking_name}
+                                    </h1>
+
+                                    <h2 className='mx-auto sm:font-semibold sm:pt-5 sm:text-2xl sm:text-justify sm:w-5/6 text-3xl w-1/2 text-white'> {bookingDetails?.details_description}
+                                    </h2>
+                                </Fade>
+
+
                             </div>
                         </div>
 

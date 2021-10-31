@@ -32,16 +32,16 @@ const Header = () => {
                         <Link to='/about' className=" text-white block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white hover:animate-bounce-slow mr-2">
                             About Us
                         </Link>
-                        {user.email && <p className='block border-2 hover:animate-bounce-slow hover:bg-blue-300 hover:text-black lg:inline-block lg:mt-0 mr-2 mt-4 p-1 rounded text-teal-200 text-yellow-500 sm:w-52 lg:text-center sm:text-center'>{user.displayName}</p>}
+                        {user.email && <p className='block border-2 hover:animate-bounce-slow hover:bg-black hover:text-white lg:inline-block lg:mt-0 mr-2 mt-4 p-1 rounded text-teal-200 text-yellow-500 sm:w-52 lg:text-center sm:text-center'>{user.displayName}</p>}
 
 
                         {user.email ? <Link to='/login' className=" text-white block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white mr-2">
-                            <button onClick={logOut} className='border-2 focus:ring-2 focus:ring-gray-400 hover:bg-blue-400 hover:text-black p-1 rounded'> Log Out</button> </Link> :
+                            <button onClick={logOut} className='border-2 focus:ring-2 focus:ring-gray-400 hover:bg-black hover:text-white  p-1 rounded'> Log Out</button> </Link> :
 
 
 
                             <Link to='/login' className=" text-white block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white mr-2">
-                                <button className='border-2 focus:ring-2 focus:ring-gray-400 hover:bg-blue-400 hover:text-black p-1 rounded'>Login</button> </Link>}
+                                <button className='border-2 focus:ring-2 focus:ring-gray-400 hover:bg-black hover:text-white p-1 rounded'>Login</button> </Link>}
 
 
                     </div>
